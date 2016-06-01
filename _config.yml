@@ -1,0 +1,14 @@
+layout_spectrum: 0.4024881480727345
+typography_spectrum: 0.7999841617420316
+color:
+  brandStrength: 0.6155170262791216
+  lightness: 0.8479470435995609
+  saturation: 0.6387197903823107
+  rhythmicContrast: 0.31253721727989614
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: jelenasimpson.com
